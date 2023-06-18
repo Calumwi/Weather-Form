@@ -1,3 +1,1 @@
-# Fake-Weather-Form
-
-A simple weather form for part 2 of my article on medium 
+A simple weather form that retrieves data from the API to display weather information
